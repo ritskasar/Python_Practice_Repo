@@ -8,6 +8,6 @@ elif int(age) >= 3 and int(age) < 18:
     print("You are school student . .")
     
 else:
-    print("You are child . . ")  
+    print("You are child now .. . ")  
     
 print("Thank You !!!!")
