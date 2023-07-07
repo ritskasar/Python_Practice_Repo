@@ -5,3 +5,11 @@ for i in range(5):
     i += 1
 
 print("Numbers of range . .")
+
+# for with list . . 
+
+members = ["jin", "RM", "suga", "J-hope", "Jimin", "Taehyuong", "Jungkook"]
+for bts in members:
+    print(bts + " bts" + str(len(members)))
+    
+print(members)
